@@ -1,7 +1,7 @@
 INSERT IGNORE INTO `spring`.`users`
-VALUES ('1', 'danny.kim', '$2a$10$KcE2ZV52mbpV3q4eikTXXe320oZy0v9agU8lfQTJUj6HyWE41BRqi', 'BCRYPT');
+VALUES ('1', 'jaimemin', '$2a$10$KcE2ZV52mbpV3q4eikTXXe320oZy0v9agU8lfQTJUj6HyWE41BRqi', 'BCRYPT');
 INSERT IGNORE INTO `spring`.`users`
-VALUES ('2', 'steve.kim', '$2a$10$KcE2ZV52mbpV3q4eikTXXe320oZy0v9agU8lfQTJUj6HyWE41BRqi', 'BCRYPT');
+VALUES ('2', 'gudetama', '$2a$10$KcE2ZV52mbpV3q4eikTXXe320oZy0v9agU8lfQTJUj6HyWE41BRqi', 'BCRYPT');
 
 INSERT IGNORE INTO `spring`.`authorities`
 VALUES ('1', 'READ', '1');
